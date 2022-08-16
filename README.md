@@ -1,5 +1,5 @@
 # mercadolivre-bot
-Scrapper para mercadolivre
+Scrapper para mercado livre
 
 # TODO
 - fazer sistema de auto-compra caso o produto esteja com certo preço
